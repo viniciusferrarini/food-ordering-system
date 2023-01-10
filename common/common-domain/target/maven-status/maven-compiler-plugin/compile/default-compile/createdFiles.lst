@@ -1,0 +1,3 @@
+com/food/ordering/system/domain/entity/AggregateRoot.class
+com/food/ordering/system/domain/valueobject/BaseId.class
+com/food/ordering/system/domain/entity/BaseEntity.class

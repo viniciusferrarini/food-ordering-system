@@ -1,0 +1,3 @@
+/Users/viniciusferrarini/Workspace/food-ordering-system/common/common-domain/src/main/java/com/food/ordering/system/domain/entity/BaseEntity.java
+/Users/viniciusferrarini/Workspace/food-ordering-system/common/common-domain/src/main/java/com/food/ordering/system/domain/entity/AggregateRoot.java
+/Users/viniciusferrarini/Workspace/food-ordering-system/common/common-domain/src/main/java/com/food/ordering/system/domain/valueobject/BaseId.java
